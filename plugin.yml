@@ -1,0 +1,9 @@
+name: JQEvent
+
+main: Event\JQEvent
+
+api: 3.0.0
+
+version: 1.0.0
+
+author: shaundev0 
